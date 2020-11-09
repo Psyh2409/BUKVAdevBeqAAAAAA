@@ -25,6 +25,8 @@ public class Main {
                                         + a * Math.pow(10, 0))
                                         * b) == aaaaaa) {
                                     System.out.println(++i + ")  " + b + y + k + v + a + " * " + b + " = " + aaaaaa);
+                                    // Output:
+                                    // 1)  79365 * 7 = 555555
                                 }
                             }
                         }
